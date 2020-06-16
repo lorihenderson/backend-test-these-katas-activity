@@ -34,7 +34,7 @@ def factorial(n):
 
 
 def fibonacci(n):
-    """Return the nth number in the fibonacci sequence (starting at 0)."""
+    """Return the nth number in the fibonacci sequence (starting at 0)."""  #fibonacci(8), 13  --> 13 is the 8th number in the fibonacci sequence
     if n < 3:
         return n - 1
     else:
