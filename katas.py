@@ -1,3 +1,5 @@
+__author__="Lori Henderson, Tiffany helped with fibonacci and testing"
+
 def add(x, y):
     """Return the result of adding x to y."""
     return x + y
